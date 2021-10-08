@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.placement{
+	position: absolute
+}
+
+.header{
+	align-items: center
+}
